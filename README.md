@@ -34,8 +34,7 @@ An ESP8266 was used for this project, but can be switched with any other WLAN-ca
 For the haptic feedback two [Vibrating Mini Motor Disc](https://www.adafruit.com/product/1201) from Adafruit were used for a 3D spaced feedback on the head.
 Both of them can be directly wired to the ESP but for higher performance it is recommended to switch them with two transistors like the BC547b.
 
-![Untitled Sketch_Steckplatine](https://github.com/user-attachments/assets/1c01b1d1-f472-4f66-8379-30596556ac9b)
-
+![Untitled Sketch_Steckplatine](https://github.com/user-attachments/assets/243acea6-37cc-4932-948d-9416ec73516d)
 
 ### Hausing
 The 3D-Model and the `.scad` file of the hausing, which includes some space for the Motor Discs and the ESP8266, is available under `/model` and can be 3D-Printed. Alternatively you can use a normal headband and simply hot glue the Motor Discs and the ESP on a headband.
